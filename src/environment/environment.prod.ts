@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:8080/api/api',
+  apiUrl: 'http://bankingbackend-teampheonix123-dev.apps.rm1.0a51.p1.openshiftapps.com/api',
   tokenName :  "authToken",
-  origin:'http://localhost:4200' 
+  origin:'http://bankingbackend-teampheonix123-dev.apps.rm1.0a51.p1.openshiftapps.com' 
 };
